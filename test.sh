@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env sh
+##!/bin/bash
 
 echo "---PHP-Test-----"
 #php myscript.php
