@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "---PHP-Test-----"
-php myscript.php
+#php myscript.php
 echo "---End----------"
