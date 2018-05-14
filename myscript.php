@@ -1,4 +1,4 @@
 <?php
 
-echo "hello world from php";
+echo "hello world from phpi\n";
 
